@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Visualising Informations Flows In The Java VM
+Bundle-SymbolicName: com.glasgow.java_vm_visualiser;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: visualising_information_flow_in_the_java_vm.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.tptp.monitoring;bundle-version="4.6.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.eclipse.jdi.internal.connect
+Bundle-ClassPath: .,
+ lib/classmexer.jar,
+ lib/com.ibm.icu_4.2.1.v20100412.jar,
+ lib/jdi.jar,
+ lib/jdimodel.jar

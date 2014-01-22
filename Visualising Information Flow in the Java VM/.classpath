@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/jdimodel.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/My Documents/Uni Stuff/Fourth Year Take Two/Project/Visualizing-Information-Flows-Throw-The-Java-VM.git/trunk/Visualising Information Flow in the Java VM/lib/jide-common.jar"/>
+	<classpathentry kind="lib" path="D:/My Documents/Uni Stuff/Fourth Year Take Two/Project/Visualizing-Information-Flows-Throw-The-Java-VM.git/trunk/Visualising Information Flow in the Java VM/lib/macrofocus-common.jar"/>
+	<classpathentry kind="lib" path="D:/My Documents/Uni Stuff/Fourth Year Take Two/Project/Visualizing-Information-Flows-Throw-The-Java-VM.git/trunk/Visualising Information Flow in the Java VM/lib/macrofocus-slider.jar"/>
+	<classpathentry kind="lib" path="D:/My Documents/Uni Stuff/Fourth Year Take Two/Project/Visualizing-Information-Flows-Throw-The-Java-VM.git/trunk/Visualising Information Flow in the Java VM/lib/macrofocus-treemap.jar"/>
+	<classpathentry kind="lib" path="lib/classmexer.jar"/>
+	<classpathentry kind="lib" path="lib/jdi.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.icu_4.2.1.v20100412.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
